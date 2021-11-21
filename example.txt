@@ -1,1 +1,2 @@
 1st example
+sed '' example.txt는 변화된다
