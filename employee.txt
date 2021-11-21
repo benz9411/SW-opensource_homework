@@ -1,1 +1,2 @@
 employee seoul,gwanju
+manager,employee
